@@ -13,7 +13,7 @@ sys.stdout.reconfigure(encoding='utf-8')
 # PARAMETERS
 # =============================================================================
 # FENE bond — Kremer-Grest standard
-FENE_K     = 30.0    # spring stiffness [ε/σ²]
+FENE_K     = 30.0    # 
 FENE_R0    = 1.5     # max extension [σ]; force → ∞ as r → R0
 FENE_EPS   = 1.0     # LJ ε inside FENE [ε]
 FENE_SIGMA = 1.0     # LJ σ inside FENE [σ]
